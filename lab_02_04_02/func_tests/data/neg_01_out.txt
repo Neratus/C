@@ -1,0 +1,1 @@
+ERROR:there should be at leats one element in array

@@ -1,0 +1,1 @@
+./app.exe c 12 hello.bin

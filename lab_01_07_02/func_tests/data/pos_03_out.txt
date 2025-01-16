@@ -1,0 +1,4 @@
+Precise value: 0.000000
+Approximate value: 0.000000
+Absolute error: 0.000000
+Impossible to calculate relative error

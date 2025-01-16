@@ -1,0 +1,1 @@
+ERROR: no products cheaper than 10.000000

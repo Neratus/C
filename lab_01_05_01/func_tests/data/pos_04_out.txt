@@ -1,0 +1,2 @@
+The quotient of the division is equal to 1 
+The remainder of the division is equal to 0

@@ -1,0 +1,1 @@
+Perimeter of the triangle is equal to 12.000000

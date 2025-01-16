@@ -1,0 +1,1 @@
+Smallest distance between two local maxima of the sequence equals: 6

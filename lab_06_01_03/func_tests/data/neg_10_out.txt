@@ -1,0 +1,1 @@
+ERROR: string in file increasese maximum allowed size 

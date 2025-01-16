@@ -1,0 +1,1 @@
+./app.exe p bin_in_tmp

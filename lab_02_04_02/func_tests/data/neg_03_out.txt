@@ -1,0 +1,2 @@
+ERROR:size of array exceeds acceptable ammount
+Sorted array: -583 -48 11 627 726 826 846 1487 4837 6463

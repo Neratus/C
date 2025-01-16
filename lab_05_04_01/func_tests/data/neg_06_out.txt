@@ -1,0 +1,1 @@
+ERROR: wrong length of string in file

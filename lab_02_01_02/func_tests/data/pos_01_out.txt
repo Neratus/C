@@ -1,0 +1,1 @@
+The arithmetic mean of the negative elements of the array is -3.000000

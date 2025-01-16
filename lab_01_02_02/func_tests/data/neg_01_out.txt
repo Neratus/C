@@ -1,0 +1,1 @@
+ERROR:Incorrect coordinate input format at point A

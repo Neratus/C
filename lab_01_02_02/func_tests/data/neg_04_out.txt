@@ -1,0 +1,1 @@
+ERROR:The coordinates of the two points coincide
